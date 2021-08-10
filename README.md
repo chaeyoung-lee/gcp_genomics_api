@@ -28,7 +28,9 @@ Yale Center for Research Computing ([YCRC](https://research.computing.yale.edu/)
 - Ex) Bioinformatics: genome alignment, variant calling
 
 <p align="center"><img src=gcp_genomics_api/workflow.png width="600">
-
+	
+Image Source: [CRG-CNAG/CalliNGS-NF](https://github.com/CRG-CNAG/CalliNGS-NF)
+	
 - More and more researchers use cloud computing services such as GCP and AWS
 - AWS has AWS Batch for batch processing; however GCP doesn't
 
