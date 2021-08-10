@@ -1,0 +1,11 @@
+name: cap-distributed
+inputParameters:
+  - name: START
+    defaultValue: "1"
+  - name: BUCKET
+    defaultValue: "gs://str_bucket"
+docker:
+  imageName: gcr.io/chae-project-61147/str-image:latest
+  cmd: "gsutil cp ${BUCKET}/input/input${START}.txt ./input
+  && python /root/cap.py ${START}
+  && gsutil cp ./output/output${START}.txt ${BUCKET}/output/output${START}.txt"
