@@ -1,4 +1,4 @@
-# Internship Report
+# Google Cloud Platform: Genomics API
 
 **Intern:** Chae Young Lee (chaeyoung.lee@yale.edu)<br>
 **Supervisor:** Dr. Robert Bjornson (robert.bjornson@yale.edu)<br>
