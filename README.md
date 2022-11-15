@@ -42,7 +42,7 @@ Image Source: [CRG-CNAG/CalliNGS-NF](https://github.com/CRG-CNAG/CalliNGS-NF)
 |:-:|:-:|:-|
 | GCP | 1wk | - A thorough overview<br>- Resolved a few confusions |
 | Genomics API | 3wk | - Direct call from batch<br>- Explored feasibility, compatibility |
-| NextFlow | 4wk | - One code, multiple environments<br>- |
+| NextFlow | 4wk | - One code, multiple environments<br> |
 <br>
 
 
